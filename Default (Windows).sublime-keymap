@@ -1,0 +1,4 @@
+[
+  { "keys": [ "ctrl+;" ],       "command": "goto_selection" },
+  { "keys": [ "ctrl+shift+;" ], "command": "goto_selection", "args": { "select_word_under_cursor": true } }
+]
