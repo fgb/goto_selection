@@ -1,4 +1,3 @@
 [
-  { "keys": [ "super+;" ],       "command": "goto_selection" },
   { "keys": [ "super+shift+;" ], "command": "goto_selection", "args": { "select_word_under_cursor": true } }
 ]

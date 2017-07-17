@@ -3,10 +3,9 @@ This work is licensed under a [3-clause modified-BSD license](LICENSE).
 ## Goto Selection
 
 Sublime Text plugin that pre-fills the Goto Anything overlay with the
-selected text. The default keybinding is [Super/Control]+[;].
-
-If nothing is selected, [Super/Control]+[Shift]+[;] will pre-fill the
-Goto Anything overlay with the word under the cursor.
+selected text or, if nothing is selected, with the word under the cursor.
+The default keybinding is <kbd>SUPER</kbd>+<kbd>SHIFT</kbd>+<kbd>;</kbd>
+(substitute <kbd>SUPER</kbd> for <kbd>CTRL</kbd> on windows/linux).
 
 ### Installation
 
